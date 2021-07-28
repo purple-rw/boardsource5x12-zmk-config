@@ -1,0 +1,9 @@
+# Copyright (c) 2021 purple-rw
+# SPDX-License-Identifier: MIT
+
+if SHIELD_BOARDSOURCE5X12
+
+config ZMK_KEYBOARD_NAME
+    default "Boardsource 5x12"
+
+endif
